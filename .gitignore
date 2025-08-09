@@ -1,5 +1,16 @@
 # Updated version of the older WP Engine recommended gitignore file.
 
+**/.DS_Store
+**.log
+
+node_modules/
+/node_modules/
+node_modules
+
+build/
+/vendor/
+
+
 # Temporary and OS files
 *~
 .DS_Store
